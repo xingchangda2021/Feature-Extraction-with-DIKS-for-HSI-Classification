@@ -1,5 +1,6 @@
 # Feature-Extraction-with-DIKS-for-HSI-Classification
-DIKS method mainly includes several convolution layers and one self-expression layer.
+A novel deep network with irregular convolutional kernels and self-expressive property (DIKS) for classification of hyperspectral images (HSIs).
+This DIKS method mainly includes several convolution layers and one self-expression layer.
 `CSL.m' is used to creat segmentation PATCH;
 'CL.m' is the code of convolution layers;
 'SL.m' is the code of self-expression layer;
